@@ -1,0 +1,14 @@
+###
+GET http://localhost:5217/api/Users
+
+###
+GET http://localhost:5217/api/Users/1
+
+### Request Headers
+POST http://localhost:5217//api/Users
+
+###
+PUT http://localhost:5217/api/Users
+
+### Request Headers
+DELETE http://localhost:5217/api/Users
